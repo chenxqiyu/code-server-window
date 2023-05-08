@@ -1,4 +1,4 @@
-node v16 up
+Node v16 or higher
 run:
 
 .bin/code-server.cmd
